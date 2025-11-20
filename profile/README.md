@@ -4,7 +4,7 @@
 
 **関西大学総合情報学部公認団体**
 
-[![Website（現在作成中）](https://img.shields.io/badge/Website-shuttlebus.kutc.kansai--u.ac.jp-blue)]()
+[![Website（現在作成中）](https://img.shields.io/badge/Website-準備中-blue)]()
 
 </div>
 
