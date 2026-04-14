@@ -4,7 +4,7 @@
 
 **関西大学総合情報学部公認団体**
 
-[![Website（現在作成中）](https://img.shields.io/badge/Website-準備中-blue)]()
+[![Website（現在準備中）](https://img.shields.io/badge/Website-準備中-blue)](http://158.217.71.32:44300)
 
 </div>
 
